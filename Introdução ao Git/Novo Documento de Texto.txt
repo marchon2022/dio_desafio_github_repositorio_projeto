@@ -1,0 +1,13 @@
+Link para download do Git: https://git-scm.com/downloads
+
+Comandos:
+
+1. cd/ # entra nos diretórios
+2. dir # lista todos os programas da pasta
+3. cd.. # volta 1 nível na pasta
+4. clear / cls #limpa tela
+5. cd APERTA TAB # completa nome das pasta automaticamente
+6. mkdir nome_da_pasta #cria nova pasta
+7. echo Hello > Hello.txt # cria arquivo Hello.txt
+8. del nome_da_pasta # deleta arquivos da pasta
+9. rmdir nome_da_pasta # deleta pasta + arquivos da pasta
